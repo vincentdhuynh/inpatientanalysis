@@ -6,4 +6,4 @@ This dataset was taken from the Department of Healthcare Access and Information 
 
 https://data.chhs.ca.gov/dataset/hospital-inpatient-characteristics-by-patient-county-of-residence
 
-I will begin by analyzing 1 of 8 datasets then proceed to the reamining datasets to gain a stronger understanding of how they relate to one another (casuation vs. correlation). 
+I will begin by analyzing each dataset individually to gain a stronger understanding of how they relate to one another (casuation vs. correlation). 
